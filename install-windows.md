@@ -1,4 +1,4 @@
-# How to make a bootable USB drive to install Windows
+# How to clean-install Windows 10
 
 If you need to make a USB flash drive to install Windows on a new machine, then follow these very simple steps.
 
