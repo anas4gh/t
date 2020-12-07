@@ -9,7 +9,7 @@ If you need to make a USB flash drive to install Windows on a new machine, then 
 
 ## Instructions
 
-1. Download the [**Windows 10 Media Creation Tool**](https://cdn.anas4.sa/MediaCreationTool).
+1. Download the [Windows 10 Media Creation Tool](https://cdn.anas4.sa/MediaCreationTool).
 2. Open it, then **accept** the Microsoft Software License Terms to continue.
 ![](https://b2.anas4.sa/file/anastutorials/pTTzFxGCY2.png)
 3. Select **Create installation media for another PC**, and then press **Next**.
