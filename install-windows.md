@@ -5,14 +5,17 @@ If you need to make a USB flash drive to install Windows on a new machine, then 
 ## Requirements
 
 - You need to use a different Windows PC
-- and a USB drive with at least 4 GB capacity
+- A USB drive with at least 8 GB capacity
 
 ## Instructions
 
 1. Download the [**Windows 10 Media Creation Tool**](https://cdn.anas4.sa/MediaCreationTool).
 2. Open it, then **accept** the Microsoft Software License Terms to continue.
+![](https://b2.anas4.sa/file/anastutorials/pTTzFxGCY2.png)
 3. Select **Create installation media for another PC**, and then press **Next**.
+![](https://b2.anas4.sa/file/anastutorials/8Nty2VOCE3.png)
 4. Keep **Use the recommended options for this PC** checked (unless if you need to change the language or architecture).
+![](https://b2.anas4.sa/file/anastutorials/TiGPbWUkHm.png)
 5. Select **USB flash drive** to install on it, press **Next**, and then select your **USB drive** from the menu.
 6. Press **Finish**, and then wait for it to download and install the files onto the flash drive.
 7. Once it's done, press **Finish** again and remove your USB drive.
